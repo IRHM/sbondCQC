@@ -36,8 +36,13 @@ _unit addMagazines ["20Rnd_556x45_UW_mag", 15];
 _unit addWeapon "hgun_Rook40_F";
 _unit addHandgunItem "30Rnd_9x21_Mag";
 
-//-AIDS
+//-AIDS / Misc
 _unit addItem "Medikit";
+_unit addItem "Map";
+_unit addItem "GPS";
+_unit addItem "Radio";
+_unit addItem "Compass";
+_unit addItem "Rangefinder";
 
 //-hint
 

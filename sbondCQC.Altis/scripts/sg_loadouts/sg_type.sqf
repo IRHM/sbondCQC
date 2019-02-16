@@ -37,6 +37,11 @@ _unit addHandgunItem "30Rnd_9x21_Mag";
 
 //-AIDS
 _unit addItem "Medikit";
+_unit addItem "Map";
+_unit addItem "GPS";
+_unit addItem "Radio";
+_unit addItem "Compass";
+_unit addItem "Rangefinder";
 
 //-hint
 
