@@ -28,25 +28,25 @@ keyspressed = {
     _handled = false;
     switch (_this select 1) do {
 
-    case 35: {//H key
+    case 35: {//h
             if (_shift) then {
                 player action ["SwitchWeapon", player, player, 100];
                 _handled = true;
             };
         };
-    case 2: {//1 key
+    case 2: {//1
                 if (_shift) then {
                     createDialog "ammoMenu";
                     _handled = true;
                 };
             };
-    case 3: {//1 key
+    case 3: {//2
                 if (_shift) then {
                     createDialog "NMD_RscDisplayGarage";
                     _handled = true;
                 };
             };
-    case 24: {
+    case 24: {//o
             if (_shift) then{
                 if (soundVolume == 1) then{
                     2 fadeSound 0.1;

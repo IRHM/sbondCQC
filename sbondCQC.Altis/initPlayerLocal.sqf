@@ -29,3 +29,14 @@ player addMPEventHandler ["MPRespawn", {[
 //Keep Gear On Respawn (also in init)
 player addEventHandler ["Killed",  {_this spawn Fnc_Set_Loadout}];
 player addEventHandler ["Respawn", {_this spawn Fnc_Get_Loadout}];
+
+player addEventHandler ["HandleHeal", {
+	_this spawn {
+		params ["_injured","_healer"];
+		_damage = damage _injured;
+		waitUntil {damage _injured != _damage};
+		if (damage _injured < _damage) then {
+			_injured setDamage 0;
+		};
+	};
+}];
