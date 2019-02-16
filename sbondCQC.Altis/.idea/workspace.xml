@@ -14,11 +14,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/init.sqf">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-340">
-              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+            <state relative-caret-position="374">
+              <caret line="22" column="29" lean-forward="true" selection-start-line="22" selection-start-column="29" selection-end-line="22" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -50,11 +50,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/scripts/sg_dialogs/sg_ammo.hpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="327">
-              <caret line="192" column="108" selection-start-line="192" selection-start-column="108" selection-end-line="192" selection-end-column="108" />
+            <state relative-caret-position="293">
+              <caret line="46" column="33" lean-forward="true" selection-start-line="46" selection-start-column="33" selection-end-line="46" selection-end-column="33" />
             </state>
           </provider>
         </entry>
@@ -108,13 +108,13 @@
         <option value="$PROJECT_DIR$/onPlayerRespawn.sqf" />
         <option value="$PROJECT_DIR$/reloadGear.sqf" />
         <option value="$PROJECT_DIR$/scripts/sg_loadouts/sg_sdar.sqf" />
-        <option value="$PROJECT_DIR$/init.sqf" />
         <option value="$PROJECT_DIR$/description.ext" />
         <option value="$PROJECT_DIR$/initPlayerLocal.sqf" />
         <option value="$PROJECT_DIR$/scripts/sg_loadouts/sg_classes.sqf" />
         <option value="$PROJECT_DIR$/scripts/sg_loadouts/sg_scopeSelector.sqf" />
         <option value="$PROJECT_DIR$/scripts/sg_dialogs/sg_dialogs.hpp" />
         <option value="$PROJECT_DIR$/scripts/sg_dialogs/sg_ammo.hpp" />
+        <option value="$PROJECT_DIR$/init.sqf" />
       </list>
     </option>
   </component>
@@ -439,13 +439,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/init.sqf">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-340">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/scripts/sg_dialogs/sg_dialogs.hpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2146">
@@ -455,8 +448,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/scripts/sg_dialogs/sg_ammo.hpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="327">
-          <caret line="192" column="108" selection-start-line="192" selection-start-column="108" selection-end-line="192" selection-end-column="108" />
+        <state relative-caret-position="293">
+          <caret line="46" column="33" lean-forward="true" selection-start-line="46" selection-start-column="33" selection-end-line="46" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/init.sqf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="29" lean-forward="true" selection-start-line="22" selection-start-column="29" selection-end-line="22" selection-end-column="29" />
         </state>
       </provider>
     </entry>

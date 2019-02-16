@@ -62,7 +62,8 @@ class ammoMenu{
             		{
             			type = 1;
             			idc = -1;
-            			action = "player addMagazine ""20Rnd_762x51_Mag"";";
+            			action = "player addMagazine [""20Rnd_762x51_Mag"", 5];";
+            			onMouseButtonDown = hint "5 magazines added";
             			x = 0.41212122;
             			y = 0.21818183;
             			w = 0.23424246;
@@ -94,7 +95,8 @@ class ammoMenu{
                     {
                         type = 1;
                         idc = -1;
-                        action = "player addMagazine ""30Rnd_762x39_Mag_F"";";
+                        action = "player addMagazine [""30Rnd_762x39_Mag_F"", 5];";
+                        onMouseButtonDown = hint "5 magazines added";
                         x = safeZoneX + safeZoneW * 0.46375;
                         y = safeZoneY + safeZoneH * 0.38333334;
                         w = safeZoneW * 0.096875;
@@ -126,7 +128,8 @@ class ammoMenu{
             		{
             			type = 1;
             			idc = -1;
-            			action = "player addMagazine ""30Rnd_65x39_caseless_green"";";
+            			action = "player addMagazine [""30Rnd_65x39_caseless_green"", 5];";
+            			onMouseButtonDown = hint "5 magazines added";
             			x = 0.41212122;
             			y = 0.35818186;
             			w = 0.23424246;
@@ -158,7 +161,8 @@ class ammoMenu{
             		{
             			type = 1;
             			idc = -1;
-            			action = "player addMagazine ""30Rnd_556x45_Stanag"";";
+            			action = "player addMagazines [""30Rnd_556x45_Stanag"", 5];";
+            			onMouseButtonDown = hint "5 magazines added";
             			x = safeZoneX + safeZoneW * 0.46375;
             			y = safeZoneY + safeZoneH * 0.5;
             			w = safeZoneW * 0.096875;
@@ -190,7 +194,8 @@ class ammoMenu{
             		{
             			type = 1;
             			idc = -1;
-            			action = "player addMagazines [""30Rnd_65x39_caseless_mag"", 5];";"hint "5 mags added";";
+            			action = "player addMagazines [""30Rnd_65x39_caseless_mag"", 5];";
+            			onMouseButtonDown = hint "5 magazines added";
             			x = 0.41212122;
             			y = 0.42818189;
             			w = 0.23424246;
