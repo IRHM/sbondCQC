@@ -18,7 +18,7 @@
 * Added Small Text Intro
 
 #### Removed:
-* Removed test scripts which were un-needed
+* Test scripts which were un-needed
 
 #### Fixed:
 * Fixed Teleport Bug
