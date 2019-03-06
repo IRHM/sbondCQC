@@ -1,8 +1,7 @@
 # Update Log
 
 #### V0.129
-#####Added:
-
+####<span style="color:orange">Added:</span>
 *Minimized Some Code
 *Files re-organized
 *Added Mushroom **(You spawn in safezone and then drive down to mushroom. 
@@ -18,10 +17,10 @@
 *Healthbar (Dark green looks a bit bad on dark gray, will change later)
 *Added Small Text Intro
 
-#####Removed:
+####<span style="color:red">Removed:</span>
 *Removed test scripts which were un-needed
 
-#####Fixed:
+####<span style="color:green">Fixed:</span>
 *Fixed Teleport Bug
 *Fixed Jumpscript (Bound to arma vault key)
 
