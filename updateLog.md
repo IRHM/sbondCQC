@@ -1,5 +1,30 @@
 # Update Log
 
+#### V0.129
+#####Added:
+
+*Minimized Some Code
+*Files re-organized
+*Added Mushroom **(You spawn in safezone and then drive down to mushroom. 
+				It was added like this because I think think mushroom is too small to have a fun time
+				with people being spawned in it.)**
+*Kill Stats (Haven't set it to be seen yet.)
+*Multi level earplugs
+*Limited things you can get in virtual arsenal **(To whitelist more items open 'sg_va.sqf' & add classnames
+				under the set categories. 
+				Classnames: https://community.bistudio.com/wiki/Arma_3_CfgVehicles_WEST )**
+*Added rebreather to SDAR Loadout
+*Added GPS to all preset loadouts
+*Healthbar (Dark green looks a bit bad on dark gray, will change later)
+*Added Small Text Intro
+
+#####Removed:
+*Removed test scripts which were un-needed
+
+#####Fixed:
+*Fixed Teleport Bug
+*Fixed Jumpscript (Bound to arma vault key)
+
 #### V0.030
 * Medikits Now Work
 * God Mode In Spawn

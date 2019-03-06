@@ -28,6 +28,7 @@ _unit addGoggles "G_Balaclava_lowprofile";
 
 //Primary Weapon
 _unit addWeapon "srifle_DMR_03_F";
+_unit addPrimaryWeaponItem "optic_MRCO";
 _unit addPrimaryWeaponItem "20Rnd_762x51_Mag";
 _unit addMagazines ["20Rnd_762x51_Mag", 15];
 

@@ -28,6 +28,7 @@ _unit addGoggles "G_Balaclava_lowprofile";
 
 //Primary Weapon
 _unit addWeapon "arifle_ARX_blk_F";
+_unit addPrimaryWeaponItem "optic_MRCO";
 _unit addPrimaryWeaponItem "30Rnd_65x39_caseless_green";
 _unit addMagazines ["30Rnd_65x39_caseless_green", 15];
 

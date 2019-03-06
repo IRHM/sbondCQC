@@ -20,7 +20,7 @@ removeGoggles _unit;
 //-Adding Clothing
 
 _unit addHeadgear "H_PilotHelmetFighter_B";
-_unit addVest "V_PlateCarrier1_blk";
+_unit addVest "V_RebreatherB";
 _unit addUniform "U_B_Wetsuit";
 _unit addBackpack "B_LegStrapBag_black_F";
 _unit addGoggles "G_Balaclava_lowprofile";

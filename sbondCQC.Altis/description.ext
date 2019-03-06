@@ -3,23 +3,7 @@
 	description: description.ext
 */
 
-#include "scripts\sg_dialogs\defines.hpp"
-#include "scripts\sg_dialogs\sg_dialogs.hpp"
-#include "scripts\sg_dialogs\sg_ammo.hpp"
-#include "nmd\include.hpp"
-#include "nmd\modules\vehicles\include.hpp"
-
-//--- Functions
-class CfgFunctions
-{
-    #include "nmd\cfgFunctions.hpp"
-    #include "nmd\modules\vehicles\cfgFunctions.hpp"
-};
-
-class Params
-{
-    #include "nmd\modules\vehicles\params.hpp"
-};
+#include "include.hpp"
 
 class Header
 {
@@ -43,3 +27,20 @@ disableSerialization = true;
 skipLobby = 1;
 enableDebugConsole[] = {"76561198172055451"};
 
+class CfgHints
+{
+	class InfantryMovement{
+		displayName = "Infantry Controls";
+		class SteppingOver
+		{
+			// Hint title, filled by arguments from 'arguments' param
+			displayName = "Stepping over obstacles";
+			// Optional hint subtitle, filled by arguments from 'arguments' param
+			displayNameShort = "Stepping over obstacles";
+			// Structured text, filled by arguments from 'arguments' param
+			description = "Pres to step over low obstacle. ";
+			// Optional structured text, filled by arguments from 'arguments' param (first argument is %11, see notes bellow), grey color of text
+			tip = "The free look represents turning the head sideways and up or down.";
+		};
+	};
+};

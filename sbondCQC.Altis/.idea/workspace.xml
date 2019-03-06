@@ -1,0 +1,492 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a793da1d-4ee4-4d85-841f-164f67ca25a1" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="sbondCQC" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/initPlayerLocal.sqf">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="790">
+              <caret line="60" column="65" lean-forward="true" selection-start-line="60" selection-start-column="65" selection-end-line="60" selection-end-column="65" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/scripts/sg_dialogs/sg_fnc_help.sqf">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="22" column="2" lean-forward="true" selection-start-line="22" selection-start-column="2" selection-end-line="22" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/scripts/sg_dialogs/sg_dialogs.hpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="234" column="38" selection-start-line="234" selection-start-column="38" selection-end-line="234" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="SQF File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>scripts</find>
+      <find>frame</find>
+      <find>og</find>
+      <find>aqua</find>
+      <find>control</find>
+      <find>air</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/scripts/sg_dialogs/sg_places/sg_air.sqf" />
+        <option value="$PROJECT_DIR$/scripts/sg_dialogs/sg_places/sg_fed.sqf" />
+        <option value="$PROJECT_DIR$/scripts/sg_dialogs/sg_places/sg_church.sqf" />
+        <option value="$PROJECT_DIR$/scripts/classes.sqf" />
+        <option value="$PROJECT_DIR$/scripts/sg_loadouts/classes.sqf" />
+        <option value="$PROJECT_DIR$/weaponBlacklist.sqf" />
+        <option value="$PROJECT_DIR$/scripts/gunBack.sqf" />
+        <option value="$PROJECT_DIR$/gunBack.sqf" />
+        <option value="$PROJECT_DIR$/scripts/sg_dialogs/openHelpMenu.sqf" />
+        <option value="$PROJECT_DIR$/scripts/sg_dialogs/sg_places/sg_og.sqf" />
+        <option value="$PROJECT_DIR$/hint.sqf" />
+        <option value="$PROJECT_DIR$/scripts/sg_dialogs/help.hpp" />
+        <option value="$PROJECT_DIR$/scripts/sg_dialogs/openAmmoMenu.sqf" />
+        <option value="$PROJECT_DIR$/scripts/sg_dialogs/ammo.hpp" />
+        <option value="$PROJECT_DIR$/scripts/sg_dialogs/teleport.hpp" />
+        <option value="$PROJECT_DIR$/reloadGear.sqf" />
+        <option value="$PROJECT_DIR$/scripts/sg_loadouts/sg_classes.sqf" />
+        <option value="$PROJECT_DIR$/scripts/sg_loadouts/sg_scopeSelector.sqf" />
+        <option value="$PROJECT_DIR$/scripts/sg_dialogs/sg_ammo.hpp" />
+        <option value="$PROJECT_DIR$/scripts/sg_loadouts/sg_mk1.sqf" />
+        <option value="$PROJECT_DIR$/scripts/sg_loadouts/sg_mk18.sqf" />
+        <option value="$PROJECT_DIR$/scripts/sg_loadouts/sg_katiba.sqf" />
+        <option value="$PROJECT_DIR$/scripts/sg_loadouts/sg_type.sqf" />
+        <option value="$PROJECT_DIR$/while.sqf" />
+        <option value="$PROJECT_DIR$/scripts/sg_dialogs/sg_places/sg_players.sqf" />
+        <option value="$PROJECT_DIR$/hudtest.hpp" />
+        <option value="$PROJECT_DIR$/scripts/sg_dialogs/sg_textInro.hpp" />
+        <option value="$PROJECT_DIR$/onPlayerKilled.sqf" />
+        <option value="$PROJECT_DIR$/onPlayerRespawn.sqf" />
+        <option value="$PROJECT_DIR$/health.sqf" />
+        <option value="$PROJECT_DIR$/scripts/sg_dialogs/sg_health.hpp" />
+        <option value="$PROJECT_DIR$/scripts/sg_dialogs/health.sqf" />
+        <option value="$PROJECT_DIR$/scripts/sg_kills.sqf" />
+        <option value="$PROJECT_DIR$/MPKilled.sqf" />
+        <option value="$PROJECT_DIR$/scripts/sg_loadouts/sg_sdar.sqf" />
+        <option value="$PROJECT_DIR$/scripts/sg_dialogs/include.hpp" />
+        <option value="$PROJECT_DIR$/scripts/sg_va.sqf" />
+        <option value="$PROJECT_DIR$/scripts/sg_veh/sg_veh.hpp" />
+        <option value="$PROJECT_DIR$/scripts/sg_veh/sg_fnc_veh.sqf" />
+        <option value="$PROJECT_DIR$/scripts/sg_stats.sqf" />
+        <option value="$PROJECT_DIR$/description.ext" />
+        <option value="$PROJECT_DIR$/scripts/sg_jump.sqf" />
+        <option value="$PROJECT_DIR$/scripts/sg_dialogs/sg_places/sg_mush.sqf" />
+        <option value="$PROJECT_DIR$/include.hpp" />
+        <option value="$PROJECT_DIR$/scripts/sg_macro.sqf" />
+        <option value="$PROJECT_DIR$/init.sqf" />
+        <option value="$PROJECT_DIR$/scripts/sg_fnc_help.sqf" />
+        <option value="$PROJECT_DIR$/scripts/sg_helpMenu.sqf" />
+        <option value="$PROJECT_DIR$/initPlayerLocal.sqf" />
+        <option value="$PROJECT_DIR$/scripts/sg_dialogs/sg_dialogs.hpp" />
+        <option value="$PROJECT_DIR$/scripts/sg_dialogs/sg_fnc_help.sqf" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-7" />
+    <option name="width" value="974" />
+    <option name="height" value="1087" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="sbondCQC" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sbondCQC.Altis" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sbondCQC" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sbondCQC.Altis" type="462c0819:PsiDirectoryNode" />
+              <item name="scripts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sbondCQC" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sbondCQC.Altis" type="462c0819:PsiDirectoryNode" />
+              <item name="scripts" type="462c0819:PsiDirectoryNode" />
+              <item name="sg_dialogs" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549860032838" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\sbondPC\Documents\Arma 3 - Other Profiles\Nualovi%20Mendana\mpmissions\sbondCQC.Altis\scripts\sg_dialogs" />
+      <recent name="C:\Users\sbondPC\Documents\Arma 3 - Other Profiles\Nualovi%20Mendana\mpmissions\sbondCQC.Altis\scripts\sg_veh" />
+      <recent name="C:\Users\sbondPC\Documents\Arma 3 - Other Profiles\Nualovi%20Mendana\mpmissions\sbondCQC.Altis\scripts\Dialogs" />
+      <recent name="C:\Users\sbondPC\Documents\Arma 3 - Other Profiles\Nualovi%20Mendana\mpmissions\sbondCQC.Altis\scripts\SGLoadouts" />
+      <recent name="C:\Users\sbondPC\Documents\Arma 3 - Other Profiles\Nualovi%20Mendana\mpmissions\sbondCQC.Altis\scripts" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a793da1d-4ee4-4d85-841f-164f67ca25a1" name="Default Changelist" comment="" />
+      <created>1549841168538</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1549841168538</updated>
+      <workItem from="1549841172331" duration="2000" />
+      <workItem from="1549841211064" duration="6683000" />
+      <workItem from="1549853129746" duration="1014000" />
+      <workItem from="1549855060124" duration="1173000" />
+      <workItem from="1549856337265" duration="3481000" />
+      <workItem from="1549884104483" duration="8616000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="20969000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="0" width="974" height="1087" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Structure" order="0" sideWeight="0.501355" side_tool="true" weight="0.23076923" />
+      <window_info id="Image Layers" order="1" />
+      <window_info id="Designer" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" sideWeight="0.49864498" visible="true" weight="0.27899343" />
+      <window_info id="Favorites" order="6" weight="0.32978722" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50074625" side_tool="true" weight="0.3292683" />
+      <window_info anchor="bottom" id="TypeScript" order="12" sideWeight="0.49925372" weight="0.32987013" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Maven" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Database" order="8" />
+      <window_info anchor="right" id="SciView" order="9" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/scripts/sg_loadouts/classes.sqf" />
+    <entry file="file://$PROJECT_DIR$/weaponBlacklist.sqf" />
+    <entry file="file://$PROJECT_DIR$/scripts/gunBack.sqf" />
+    <entry file="file://$PROJECT_DIR$/gunBack.sqf" />
+    <entry file="file://$PROJECT_DIR$/scripts/sg_dialogs/openTeleportMenu.sqf" />
+    <entry file="file://$PROJECT_DIR$/scripts/sg_dialogs/openHelpMenu.sqf" />
+    <entry file="file://$PROJECT_DIR$/scripts/sg_dialogs/help.hpp" />
+    <entry file="file://$PROJECT_DIR$/scripts/sg_dialogs/teleport.hpp" />
+    <entry file="file://$PROJECT_DIR$/scripts/sg_dialogs/sg_places/sg_og.sqf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="15" selection-start-line="21" selection-start-column="15" selection-end-line="21" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/sg_dialogs/openAmmoMenu.sqf" />
+    <entry file="file://$PROJECT_DIR$/scripts/sg_dialogs/ammo.hpp" />
+    <entry file="file://$PROJECT_DIR$/config.cpp" />
+    <entry file="file://$PROJECT_DIR$/hint.sqf" />
+    <entry file="file://$PROJECT_DIR$/reloadGear.sqf" />
+    <entry file="file://$PROJECT_DIR$/scripts/sg_loadouts/sg_scopeSelector.sqf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="34" lean-forward="true" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/sg_dialogs/sg_ammo.hpp" />
+    <entry file="file://$PROJECT_DIR$/scripts/sg_loadouts/sg_mk18.sqf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="30" column="46" lean-forward="true" selection-start-line="30" selection-start-column="46" selection-end-line="30" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/sg_loadouts/sg_type.sqf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="661">
+          <caret line="48" lean-forward="true" selection-start-line="48" selection-end-line="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/while.sqf" />
+    <entry file="file://$PROJECT_DIR$/hudtest.hpp" />
+    <entry file="file://$PROJECT_DIR$/scripts/sg_dialogs/sg_textIntro.sqf" />
+    <entry file="file://$PROJECT_DIR$/scripts/sg_dialogs/sg_textInro.hpp" />
+    <entry file="file://$PROJECT_DIR$/onPlayerKilled.sqf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="26" lean-forward="true" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/onPlayerRespawn.sqf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="26" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/health.sqf" />
+    <entry file="file://$PROJECT_DIR$/scripts/sg_dialogs/health.sqf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/jstar_va.sqf" />
+    <entry file="file://$PROJECT_DIR$/scripts/sg_kills.sqf" />
+    <entry file="file://$PROJECT_DIR$/scripts/sg_loadouts/sg_sdar.sqf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="236">
+          <caret line="21" column="43" lean-forward="true" selection-start-line="21" selection-start-column="43" selection-end-line="21" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/sg_dialogs/include.hpp" />
+    <entry file="file://$PROJECT_DIR$/scripts/sg_dialogs/sg_places/sg_players.sqf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/sg_va.sqf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="319">
+          <caret line="127" column="2" lean-forward="true" selection-start-line="127" selection-start-column="2" selection-end-line="127" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/sg_loadouts/sg_katiba.sqf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="503">
+          <caret line="48" lean-forward="true" selection-start-line="48" selection-end-line="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/sg_veh/sg_fnc_veh.sqf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="49" selection-start-line="17" selection-start-column="49" selection-end-line="17" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/sg_dialogs/sg_health.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="57" selection-start-line="18" selection-start-column="57" selection-end-line="18" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MPKilled.sqf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/sg_loadouts/sg_mk1.sqf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="503">
+          <caret line="48" lean-forward="true" selection-start-line="48" selection-end-line="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/sg_loadouts/sg_classes.sqf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/sg_veh/sg_veh.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1853">
+          <caret line="109" column="31" selection-start-line="109" selection-start-column="31" selection-end-line="109" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/sg_jump.sqf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="2" lean-forward="true" selection-start-line="14" selection-start-column="2" selection-end-line="14" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/sg_stats.sqf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="2" selection-start-line="21" selection-start-column="2" selection-end-line="21" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/sg_dialogs/sg_places/sg_air.sqf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="8" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/sg_dialogs/sg_places/sg_mush.sqf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="8" lean-forward="true" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/init.sqf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="30" selection-start-line="23" selection-start-column="30" selection-end-line="23" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/sg_macro.sqf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="541">
+          <caret line="45" column="19" lean-forward="true" selection-start-line="45" selection-start-column="19" selection-end-line="45" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/sg_helpMenu.sqf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="12" lean-forward="true" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/description.ext">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="34" column="9" selection-start-line="34" selection-start-column="9" selection-end-line="34" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="47" selection-start-line="26" selection-start-column="47" selection-end-line="26" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/sg_dialogs/sg_dialogs.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="234" column="38" selection-start-line="234" selection-start-column="38" selection-end-line="234" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/initPlayerLocal.sqf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="790">
+          <caret line="60" column="65" lean-forward="true" selection-start-line="60" selection-start-column="65" selection-end-line="60" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripts/sg_dialogs/sg_fnc_help.sqf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="2" lean-forward="true" selection-start-line="22" selection-start-column="2" selection-end-line="22" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
