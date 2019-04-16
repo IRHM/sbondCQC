@@ -1,6 +1,8 @@
 # sbondCQC
 A simple CQC ( Close Quaters Combat ) game mode for ArmA 3.
 
+Go to releases to download pbo of mission.
+
 ## Features
 
 * Earplugs
