@@ -1,12 +1,12 @@
 # sbondCQC
-A simple CQC ( Close Quaters Combat ) game mode for ArmA 3.
+A simple CQC ( Close Quarters Combat ) gamemode for ArmA 3.
 
-Go to releases to download pbo of mission.
+Mission PBO is on Releases Page.
 
 ## Features
 
 * Earplugs
 * Random Spawn Selection
-* SDAR Underwater Combat Area (for fun of course)
-* preset loadouts & aresenal
+* preset loadouts & arsenal
 * saving loadout through death
+* Fun SDAR Underwater Combat Area
